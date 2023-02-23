@@ -120,7 +120,8 @@ Para poder entregar nuestro reconocedor necesitamos muchas imagenes positivas y 
 ### Crear imagenes positivas
 
 - Tener una sola imagen del objeto que queremos reconocer, tiene que ser pequeña en este caso es de `60px * 83px`, si puede ser mas pequeña genial, de otro modo tomara demasiado tiempo el entrenamiento.  
-<img alt="fosforo" src="./pos/fosforo-60-83.jpg"/>
+
+  <img alt="fosforo" src="./pos/fosforo-60-83.jpg"/>
 
 - Con ayuda de python pondremos nuestra objeto en las 2000 imagenes **negativas** de paisajes con rataciones de 0.5 y alejamientos de 0.5 tambien con el siguiente comando:
 
