@@ -74,7 +74,7 @@ Para poder entregar nuestro reconocedor necesitamos muchas imagenes positivas y 
 - Esta url de [imagenes - paisajes](https://www.kaggle.com/datasets/theblackmamba31/landscape-image-colorization) nos servira, asi que vamos a descargar y descomprimmir en nuestra carpeta `./fondos`:  
 
   ***Ejemplo***  
-<img alt="Codely logo" src="./fondos/00000000_(2).jpg" width="300px" height="auto"/>
+<img alt="imagen de negativa sin procesar" src="./fondos/00000000_(2).jpg" width="300px" height="auto"/>
 
   por cierto hay mas de 2000 imagenes en esa url, asi que borra hasta quedarte solo con 2000 imagenes
 
